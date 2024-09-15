@@ -1,7 +1,7 @@
 partner list
-<<<<<<< HEAD
+
 SalesInc
-=======
->>>>>>> bf799a6 (F: Ch3.L12.)
+
+SalesInc
 
 TheStartup
